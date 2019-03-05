@@ -1,2 +1,3 @@
 # Kalomidin
 This is just a sample for learning
+I have done some editing...
